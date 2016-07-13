@@ -1,0 +1,17 @@
+CSS 포함방법
+
+1. inlline
+
+ex)<div style="collor:red ></div>
+
+
+ex)
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello front end</title>
+    <!--CSS-->
+    <style>
+     p{ color:red}
