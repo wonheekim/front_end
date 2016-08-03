@@ -1,0 +1,26 @@
+.small-wrap {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.header{
+    height:135px;
+    position:relative;
+}
+
+.logo{
+    position:absolute;
+    top:20px;
+    left:0px;
+    margin-left:-46px;
+}
+
+
+
+.banner-bottom {
+    display: block;
+    height: 697px;
+    text-indent: -99999em;
+    background: #f0eb1d url(../mobis/images/visual0.jpg) no-repeat 50% 50%;
+}
